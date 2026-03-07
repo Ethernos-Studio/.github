@@ -1,4 +1,4 @@
-#  ETHERNOS STUDIO 
+#  ETHERNOS™ STUDIO 
 
 > **"在代码的宇宙中，我们是点燃星系的火花"**
 
@@ -8,6 +8,7 @@
 
 <p>
   <a href="mailto:studio@ethernos.cn"><img src="https://img.shields.io/badge/📧-studio@ethernos.cn-blue?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:studio@ethernos.net"><img src="https://img.shields.io/badge/📧-studio@ethernos.net-blue?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://qm.qq.com/cgi-bin/qm/qr?k=YOUR_QR_CODE"><img src="https://img.shields.io/badge/👥-QQ群_1070963958-12B7F5?style=flat-square&logo=tencentqq&logoColor=white"></a>
   <br>
   <a href="https://space.bilibili.com/3546980420684160"><img src="https://img.shields.io/badge/📺-B站官方面向绿色?style=flat-square&logo=bilibili&logoColor=white"></a>
@@ -21,7 +22,7 @@
 ## 关于我们
 
 <p align="center">
-  <strong>Ethernos Studio</strong> 是一支由代码炼金术士组成的极客团队 🧙‍♂️
+  <strong>Ethernos™ Studio</strong> 是一支由代码炼金术士组成的极客团队 🧙‍♂️
   <br><br>
   我们专注于打造<span style="color:#00d4ff">颠覆性</span>开源项目，相信社区引力能让代码能量<span style="color:#ff6b6b">指数级裂变</span> 💥
   <br>
@@ -62,7 +63,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/⏱️-响应时间≤24h-green?style=flat-square">
-  <img src="https://img.shields.io/badge/🔑-加群暗号:Ethernos2024-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/🔑-加群暗号:Ethernos™2024-orange?style=flat-square">
 </p>
 
 ---
@@ -81,6 +82,6 @@
 
 <strong style="font-size:18px">由 <a href="https://github.com/dhjs0000">@dhjs0000</a> 于 2024 点燃 🔥</strong>
 <br>
-<img src="https://img.shields.io/badge/🌌-Ethernos%20Studio-9C27B0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDEyIDRMMTAgNkwxMiA4TDEyIDEwTDEwIDEyTDEyIDE0TDEyIDE2TDEwIDE4TDEyIDIwTDEyIDIyTDE0IDIwTDE0IDE4TDE2IDE2TDE0IDE0TDE0IDEyTDE2IDEwTDE0IDhMMTQgNkwxNiA0TDE0IDJMMTIgMloiLz48L3N2Zz4=">
+<img src="https://img.shields.io/badge/🌌-Ethernos™%20Studio-9C27B0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyTDEyIDRMMTAgNkwxMiA4TDEyIDEwTDEwIDEyTDEyIDE0TDEyIDE2TDEwIDE4TDEyIDIwTDEyIDIyTDE0IDIwTDE0IDE4TDE2IDE2TDE0IDE0TDE0IDEyTDE2IDEwTDE0IDhMMTQgNkwxNiA0TDE0IDJMMTIgMloiLz48L3N2Zz4=">
 
 </div>
