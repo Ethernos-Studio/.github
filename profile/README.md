@@ -7,7 +7,6 @@
 ### ⚡ 创新 · 🤝 协作 · 🏆 卓越 ⚡
 
 <p>
-  <a href="mailto:studio@ethernos.cn"><img src="https://img.shields.io/badge/📧-studio@ethernos.cn-blue?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="mailto:studio@ethernos.net"><img src="https://img.shields.io/badge/📧-studio@ethernos.net-blue?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://qm.qq.com/cgi-bin/qm/qr?k=YOUR_QR_CODE"><img src="https://img.shields.io/badge/👥-QQ群_1070963958-12B7F5?style=flat-square&logo=tencentqq&logoColor=white"></a>
   <br>
